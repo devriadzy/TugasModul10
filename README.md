@@ -15,7 +15,7 @@
 1. **Clone repository**:
    Jika Anda belum meng-clone repository, lakukan dengan perintah:
    ```bash
-   git clone <URL_REPOSITORY>
+   git clone https://github.com/devriadzy/TugasModul10.git
    ```
 
 2. **Kompilasi dan Jalankan Program**:
